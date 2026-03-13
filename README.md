@@ -18,7 +18,7 @@ button, input {
 
 <body>
 
-<h1>Commande LED Neopixel (BLE)</h1>
+<h1>Commande LED Neopixel (BLE)juules</h1>
 
 <button onclick="connect()">🔗 Connexion BLE</button><br>
 
